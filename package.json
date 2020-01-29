@@ -104,7 +104,7 @@
     "immer": "^5.3.2",
     "inflected": "^2.0.4",
     "jest": "^24.9.0",
-    "lint-staged": "^10.0.1",
+    "lint-staged": "^10.0.4",
     "prettier": "^1.19.1",
     "pretty-quick": "^2.0.1",
     "prop-types": "^15.7.2",
